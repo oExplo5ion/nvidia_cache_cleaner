@@ -1,0 +1,15 @@
+D:\nvidia_cleaner\NVIDIA Cleaner\NVIDIA Cleaner\bin\Debug\NVIDIA Cleaner.exe.config
+D:\nvidia_cleaner\NVIDIA Cleaner\NVIDIA Cleaner\bin\Debug\NVIDIA Cleaner.exe
+D:\nvidia_cleaner\NVIDIA Cleaner\NVIDIA Cleaner\bin\Debug\NVIDIA Cleaner.pdb
+D:\nvidia_cleaner\NVIDIA Cleaner\NVIDIA Cleaner\obj\Debug\NVIDIA Cleaner.csprojAssemblyReference.cache
+D:\nvidia_cleaner\NVIDIA Cleaner\NVIDIA Cleaner\obj\Debug\MainWindow.g.cs
+D:\nvidia_cleaner\NVIDIA Cleaner\NVIDIA Cleaner\obj\Debug\App.g.cs
+D:\nvidia_cleaner\NVIDIA Cleaner\NVIDIA Cleaner\obj\Debug\NVIDIA Cleaner_MarkupCompile.cache
+D:\nvidia_cleaner\NVIDIA Cleaner\NVIDIA Cleaner\obj\Debug\NVIDIA Cleaner_MarkupCompile.lref
+D:\nvidia_cleaner\NVIDIA Cleaner\NVIDIA Cleaner\obj\Debug\MainWindow.baml
+D:\nvidia_cleaner\NVIDIA Cleaner\NVIDIA Cleaner\obj\Debug\NVIDIA Cleaner.g.resources
+D:\nvidia_cleaner\NVIDIA Cleaner\NVIDIA Cleaner\obj\Debug\NVIDIA_Cleaner.Properties.Resources.resources
+D:\nvidia_cleaner\NVIDIA Cleaner\NVIDIA Cleaner\obj\Debug\NVIDIA Cleaner.csproj.GenerateResource.cache
+D:\nvidia_cleaner\NVIDIA Cleaner\NVIDIA Cleaner\obj\Debug\NVIDIA Cleaner.csproj.CoreCompileInputs.cache
+D:\nvidia_cleaner\NVIDIA Cleaner\NVIDIA Cleaner\obj\Debug\NVIDIA Cleaner.exe
+D:\nvidia_cleaner\NVIDIA Cleaner\NVIDIA Cleaner\obj\Debug\NVIDIA Cleaner.pdb
